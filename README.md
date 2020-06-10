@@ -1,2 +1,2 @@
-# arquitetura-css
-curso de arquitetura da Alura. 
+# Arquitetura-css
+A simple architecture showing how to use a CSS in a project.
